@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Azure-blob-storage-console-app": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
